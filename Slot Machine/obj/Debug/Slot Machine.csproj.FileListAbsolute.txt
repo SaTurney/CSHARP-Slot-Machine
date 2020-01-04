@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Slot Machine\Slot Machine\bin\Debug\Slot Machine.exe.config
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Slot Machine\Slot Machine\bin\Debug\Slot Machine.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Slot Machine\Slot Machine\bin\Debug\Slot Machine.pdb
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Slot Machine\Slot Machine\obj\Debug\Slot Machine.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Slot Machine\Slot Machine\obj\Debug\Slot_Machine.slotMachine.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Slot Machine\Slot Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Slot Machine\Slot Machine\obj\Debug\Slot Machine.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Slot Machine\Slot Machine\obj\Debug\Slot Machine.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Slot Machine\Slot Machine\obj\Debug\Slot Machine.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 6\Slot Machine\Slot Machine\obj\Debug\Slot Machine.pdb
